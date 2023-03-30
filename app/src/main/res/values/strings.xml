@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="upp">UPP</string>
+    <string name="downnn">DOWNNN</string>
+    <string name="http">HTTP</string>
+    <string name="stream">Поток</string>
+    <string name="sd">Сд карта</string>
+    <string name="uri">Интернет</string>
+    <string name="raw">Память устройства</string>
+    <string name="pause">ПАУЗА</string>
+    <string name="resume">ВОСПРОИЗВЕДЕНИЕ</string>
+    <string name="stop">СТОП</string>
+    <string name="backwards">НАЗАД</string>
+    <string name="forward">ВПЕРЕД</string>
+    <string name="info">ИНФОРМАЦИЯ</string>
+
+</resources>
